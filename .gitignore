@@ -1,5 +1,5 @@
 # Ignore virtual environment
-.venv/
+venv/
 
 # Ignore OS and editor junk
 .DS_Store
